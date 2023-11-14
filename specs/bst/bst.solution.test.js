@@ -2,7 +2,7 @@
 
 Binary Search Tree!
 
-Name your class Tree. 
+Name your class Tree.
 
 I'd suggest making another class called Node. You don't have to; you can make them all plain JS objects
 
